@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AI assistant</string>
+
+    <!-- AI Assistant Screen -->
+    <string name="header_title">AI Safety Assistant</string>
+    <string name="back_button_desc">Back button</string>
+    <string name="ai_assistant_icon_desc">AI Assistant</string>
+    <string name="typing_indicator_text">AI is typing...</string>
+    <string name="message_input_hint">Ask me about safety tips...</string>
+    <string name="send_button_desc">Send message</string>
+</resources>
